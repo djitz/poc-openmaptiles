@@ -5,5 +5,17 @@
       "type": "vector",
       "url": "https://free.tilehosting.com/data/v3.json?key=LI8IicVY5W7gs4gxhiA6"
     }
+  },
+  "layers": [
+  {
+    "id": "water",
+    "source": "mapbox-streets",
+    "source-layer": "water",
+    "type": "fill",
+    "paint": {
+      "fill-color": "#00ffff"
+    }
   }
+]
+  
 }
